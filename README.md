@@ -122,3 +122,5 @@ Ensure your entire project (including both `frontend` and `backend` folders) is 
 ```
 
 **Demo video**
+
+https://github.com/user-attachments/assets/ad1a3f7a-45c3-4bb4-9173-79676aa274f6
